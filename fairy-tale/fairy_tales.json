@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Cinderella",
+    "author": "Charles Perrault",
+    "created_at": "1697-01-01T00:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/I/71ROryxn74L._AC_UF894,1000_QL80_.jpg",
+    "audio": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+  },
+  {
+    "title": "Snow White",
+    "author": "The Brothers Grimm",
+    "created_at": "1812-01-01T00:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/I/71ROryxn74L._AC_UF894,1000_QL80_.jpg",
+    "audio": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "author": "Jeanne-Marie Leprince de Beaumont",
+    "created_at": "1756-01-01T00:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/I/71ROryxn74L._AC_UF894,1000_QL80_.jpg",
+    "audio": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+  },
+  {
+    "title": "Little Red Riding Hood",
+    "author": "Charles Perrault",
+    "created_at": "1697-01-01T00:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/I/71ROryxn74L._AC_UF894,1000_QL80_.jpg",
+    "audio": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+  },
+  {
+    "title": "The Little Mermaid",
+    "author": "Hans Christian Andersen",
+    "created_at": "1837-01-01T00:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/I/71ROryxn74L._AC_UF894,1000_QL80_.jpg",
+    "audio": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+  },
+  {
+    "title": "Rapunzel",
+    "author": "The Brothers Grimm",
+    "created_at": "1812-01-01T00:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/I/71ROryxn74L._AC_UF894,1000_QL80_.jpg",
+    "audio": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+  },
+  {
+    "title": "Sleeping Beauty",
+    "author": "Charles Perrault",
+    "created_at": "1697-01-01T00:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/I/71ROryxn74L._AC_UF894,1000_QL80_.jpg",
+    "audio": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+  },
+  {
+    "title": "Hansel and Gretel",
+    "author": "The Brothers Grimm",
+    "created_at": "1812-01-01T00:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/I/71ROryxn74L._AC_UF894,1000_QL80_.jpg",
+    "audio": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+  },
+  {
+    "title": "The Ugly Duckling",
+    "author": "Hans Christian Andersen",
+    "created_at": "1843-01-01T00:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/I/71ROryxn74L._AC_UF894,1000_QL80_.jpg",
+    "audio": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+  },
+  {
+    "title": "The Frog Prince",
+    "author": "The Brothers Grimm",
+    "created_at": "1812-01-01T00:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/I/71ROryxn74L._AC_UF894,1000_QL80_.jpg",
+    "audio": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+  }
+]
