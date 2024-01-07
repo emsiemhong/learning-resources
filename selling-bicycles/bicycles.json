@@ -95,7 +95,7 @@
       "brand": "PQR Bikes",
       "type": "Mountain Bike",
       "price": 27,
-      "image": "https://emsiemhong.github.io/learning-resources/selling-bicycles/images/mountain-2-27$.jpg",
+      "image": "https://emsiemhong.github.io/learning-resources/selling-bicycles/images/mountain-2-27$.webp",
       "discount": true,
       "free_delivery": true,
       "condition": "used"
@@ -135,7 +135,7 @@
       "brand": "MNO Bikes",
       "type": "Road Bike",
       "price": 799.99,
-      "image": "https://emsiemhong.github.io/learning-resources/selling-bicycles/images/road-799-99$.jpg",
+      "image": "https://emsiemhong.github.io/learning-resources/selling-bicycles/images/road-799-99$.webp",
       "discount": true,
       "free_delivery": true,
       "condition": "used"
